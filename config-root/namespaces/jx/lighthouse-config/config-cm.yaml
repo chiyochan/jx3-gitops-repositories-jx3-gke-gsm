@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - chiyochan/jx3-gitops-repositories-jx3-gke-gsm
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.72.245.235.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 8080
             path: "/"
-      host: chartmuseum-jx.change.me
+      host: chartmuseum-jx.34.72.245.235.nip.io
